@@ -1,6 +1,6 @@
 {
     "name": "keli-chatstatistics",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "keli的聊天统计插件",
     "main": "lib/index.js",
     "scripts": {
