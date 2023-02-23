@@ -1,0 +1,23 @@
+{
+    "name": "keli-chatstatistics",
+    "version": "0.0.5",
+    "description": "keli的聊天统计插件",
+    "main": "lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "chat",
+        "统计",
+        "keli"
+    ],
+    "author": "islanddddddd",
+    "license": "ISC",
+    "dependencies": {
+        "@node-rs/jieba": "^1.6.2"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:islanddddddd/keli-chatStatistics.git"
+    }
+}
